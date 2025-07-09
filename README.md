@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://your-solution-ur)
-- Live Site URL: [GitHub pages](https://your-live-site-url.com)
+- Solution URL: [GitHub Repo](https://github.com/wahyuanandaa/product-feedback-app/)
+- Live Site URL: [GitHub Pages](https://wahyuanandaa.github.io/product-feedback-app/)
 
 ## My process
 
